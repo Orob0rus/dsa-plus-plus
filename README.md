@@ -1,4 +1,4 @@
-# Data Structures and Algorithms for Production Systems
+# dsa-plus-plus
 
 This repository is dedicated to the study and practical application of Data Structures and Algorithms that can be used in professional production systems. 
 
